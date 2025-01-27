@@ -5,6 +5,7 @@
 ## Author : Parthasarathy G
 ## Version : v1.0
 ## Description : Email sending accoriding aws services availability and unavailability
+
 #####################################################
 
 # List of AWS services to monitor
